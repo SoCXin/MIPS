@@ -18,7 +18,9 @@ MIPS是出现最早的商业RISC架构芯片之一，新的架构集成了所有
 
 ## ESP8266
 
+ESP8266EX 内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz
 
+https://github.com/mcuyun/ESP8266.git
 
 ## ESP32
 
