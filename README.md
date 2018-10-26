@@ -16,6 +16,15 @@ MIPS是出现最早的商业RISC架构芯片之一，新的架构集成了所有
 
 ---
 
+## ESP8266
+
+
+
+## ESP32
+
+高性价比WIFI+BT双模芯片，基于Xtensa® 32-bit LX6 单/双核处理器，运算能力高达 600 MIPS
+
+https://github.com/mcuyun/ESP32.git
 
 ---
 
