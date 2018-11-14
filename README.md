@@ -1,7 +1,14 @@
-﻿
-# MIPS
+﻿# [MIPS](https://github.com/mcuyun/MIPS) 
 
-[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+MIPS内核MCU
+
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+
+---
+
+## 简介
 
 MIPS是世界上很流行的一种RISC处理器。
 
@@ -16,21 +23,30 @@ MIPS是出现最早的商业RISC架构芯片之一，新的架构集成了所有
 
 ---
 
-## ESP8266
+## 构成
+
+---
+
+### ESP
+
+ESP的现象及物联网相关芯片，采用Tensilica MIPS处理器
+
+https://github.com/mcuyun/ESP.git
+
+##### ESP8266
 
 ESP8266EX 内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz
 
 https://github.com/mcuyun/ESP8266.git
 
-## ESP32
+##### ESP32
 
 高性价比WIFI+BT双模芯片，基于Xtensa® 32-bit LX6 单/双核处理器，运算能力高达 600 MIPS
 
 https://github.com/mcuyun/ESP32.git
 
+
 ---
 
-## 说明
-
-本文档用于索引MIPS处理器相关项目
+###  www.mcuyun.com   |    qitas@qitas.cn
 
